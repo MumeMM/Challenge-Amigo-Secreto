@@ -1,3 +1,3 @@
 Challenge Amigo Secreto
 
-Trata sobre escibir nombre y de todos los nombres uno saldra al azar 
+Trata sobre escribir nombres y de todos los nombres uno se escogera uno al azar 
