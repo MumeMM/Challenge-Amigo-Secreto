@@ -17,7 +17,6 @@ function agregarAmigo() {
 
     amigos.push(amigo);
     estableceBlanco();
-    console.log(amigos);
     mostrarAmigos();
 
 }
